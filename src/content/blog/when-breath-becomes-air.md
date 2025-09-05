@@ -16,7 +16,7 @@ The remaining months he had—what did it mean for him? A neurosurgeon, a father
 
 <u>"...You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving...”</u>
 
-Paul began writing the book after his diagnosis and continued until he could no longer gather the strength to write. His love for literature shaped his perspective on life and death, allowing him to convey profound insights through his words. As he penned `his thoughts, he hoped to leave behind a legacy that would resonate with others facing similar struggles.
+Paul began writing the book after his diagnosis and continued until he could no longer gather the strength to write. His love for literature shaped his perspective on life and death, allowing him to convey profound insights through his words. As he penned `his thoughts, he hoped to leave behind a legacy that would resonate with others facing similar struggles
 
 ## Personal Reflections
 
