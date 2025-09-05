@@ -6,7 +6,7 @@ heroImage: '/sara-bakhshi-_-DIX0c_Q1Y-unsplash.jpg'
 tags: ["Non-fiction","Memoir","Autobiography"] 
 ---
 ### A Neurosurgeon's Crisis
-<u>I FLIPPED THROUGH THE CT scan images, the diagnosis obvious: the lungs were matted with innumerable tumors, the spine deformed, a   full lobe of the liver obliterated. Cancer, widely disseminated. I was a neurosurgical resident entering my final year of training Over the last six years, I’d examined scores of such scans, on the off chance that some procedure might `benefit the patient. But this scan was different: it was my own.</u>
+<u>"...I FLIPPED THROUGH THE CT scan images, the diagnosis obvious: the lungs were matted with innumerable tumors, the spine deformed, a   full lobe of the liver obliterated. Cancer, widely disseminated. I was a neurosurgical resident entering my final year of training Over the last six years, I’d examined scores of such scans, on the off chance that some procedure might `benefit the patient. But this scan was different: it was my own..."</u>
 
 This is the story of the late Dr. Paul Kalanithi, a final-year neurosurgery resident doctor from Stanford University who had been diagnosed with terminal metastatic lung cancer. Aside from being a neurosurgeon, he had a critical interest in literature and philosophy. Dr. Paul's transition from doctor to patient forced him to confront his mortality and question the meaning of life in the certainty of death.
 
