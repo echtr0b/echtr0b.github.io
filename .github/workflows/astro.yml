@@ -48,7 +48,7 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run:|
+        run: |
           npm i -g pnpm
           pnpm install
         working-directory: ${{ env.BUILD_PATH }}
