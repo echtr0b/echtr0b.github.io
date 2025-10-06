@@ -43,19 +43,14 @@ jobs:
           echo "lockfile=pnpm-lock.yaml" >> $GITHUB_OUTPUT
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v3
         with:
-          node-version: "22"
-          cache: pnpm
-          cache-dependency-path: ${{ env.BUILD_PATH }}/pnpm-lock.yaml
-          package-manager: pnpm
-
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+          node-version: "20"
 
       - name: Install dependencies
-        run: pnpm install
+        run:|
+          npm i -g pnpm
+          pnpm install
         working-directory: ${{ env.BUILD_PATH }}
 
       - name: Build with Astro
