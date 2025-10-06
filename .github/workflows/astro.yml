@@ -48,9 +48,7 @@ jobs:
           node-version: "22"
           cache: pnpm
           cache-dependency-path: ${{ env.BUILD_PATH }}/pnpm-lock.yaml
-
-      - name: Install pnpm
-        run: corepack enable && corepack prepare pnpm@latest --activate
+          package-manager: pnpm
 
       - name: Setup Pages
         id: pages
