@@ -3,6 +3,8 @@ title: "Influence Of One Piece"
 published: 2025-09-12
 tags: ["Personal"]
 ---
+![executive office government of nepal](./_images/protest-picture-singhadurbar.jpeg)
+
 # Protest In Nepal
 Gen-z revolution of nepal occured on 8th september, 2025. The protest began when the government attempted to silence the nation's voice by enacting a social media ban across the country. The protest was led by young individuals who recognized themselves as Generation z "Gen-z". The Gen-z's led the protest carrying the straw hat jolly roger flag. It reminded me of when I was in school around 2016-17, when my friends and I used to analyze one piece's story arcs, and some of my classmates found it boring and debated with us about the shallowness of the plot and how it carries no relevance to the real world. And in present day I am witnessing mass individuals waving straw hat jolly roger flag overthrowing the entire government in just 2 days. It felt surreal to me that Eiichiro Oda's masterpiece "One piece" has made such influence in the real world.
 

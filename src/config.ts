@@ -4,15 +4,15 @@ export const themeConfig: ThemeConfig = {
   // SITE INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START
   site: {
     // site title
-    title: 'Aryan Pudasaini',
-    // site subtitle
-    subtitle: 'Hello World',
+    title: 'Personal Blog',
+     // site subtitle
+    subtitle: '',
     // site description
-    description: 'Retypeset is a static blog theme based on the Astro framework. Inspired by Typography, Retypeset establishes a new visual standard and reimagines the layout of all pages, creating a reading experience reminiscent of paper books, reviving the beauty of typography. Details in every sight, elegance in every space.',
+    description: 'Insights, Reflections, And Writings By Aryan Pudasiani, Worth Your Time.',
     // use i18n title/subtitle/description from src/i18n/ui.ts instead of static ones above
     i18nTitle: false, // true, false
     // author name
-    author: 'aryan',
+    author: 'Aryan Pudasaini',
     // site url
     url: 'https://echtr0b.github.io',
     // base path
@@ -102,7 +102,7 @@ export const themeConfig: ThemeConfig = {
     // https://waline.js.org/en/
     waline: {
       // server url
-      serverURL: 'https://retypeset-comment.radishzz.cc',
+      serverURL: '',
       // emoji url
       emoji: [
         'https://unpkg.com/@waline/emojis@1.2.0/tw-emoji',
@@ -141,7 +141,7 @@ export const themeConfig: ThemeConfig = {
     googleAnalyticsID: '',
     // umami analytics
     // https://cloud.umami.is
-    umamiAnalyticsID: '520af332-bfb7-4e7c-9386-5f273ee3d697',
+    umamiAnalyticsID: '2ffdccb3-1922-4cab-85a1-f9fead577120',
     // follow verification
     // https://follow.is/
     follow: {
@@ -161,18 +161,18 @@ export const themeConfig: ThemeConfig = {
   footer: {
     // social links
     links: [
-      {
-        name: 'RSS',
-        url: '/atom.xml', // or /rss.xml
-      },
-      {
-        name: 'GitHub',
-        url: 'https://github.com/echtr0b',
-      },
-      {
-        name: 'Email',
-        url: 'pudasainiaryan@gmail.com',
-      },
+     // {
+     //   name: '',
+     //   url: '/atom.xml', // or /rss.xml
+     // },
+     // {
+     //   name: '',
+     //   url: '',
+     // },
+     // {
+     //   name: '',
+     //   url: '',
+     // },
       // {
       //   name: 'X',
       //   url: 'https://x.com/radishzz_',
@@ -187,7 +187,7 @@ export const themeConfig: ThemeConfig = {
   preload: {
     // image hosting url
     // optimize remote images in Markdown files to avoid cumulative layout shift
-    imageHostURL: 'image.radishzz.cc',
+    imageHostURL: '',
     // custom google analytics js
     // for users who route analytics javascript to a customized domain
     // see https://gist.github.com/xiaopc/0602f06ca465d76bd9efd3dda9393738
@@ -195,7 +195,7 @@ export const themeConfig: ThemeConfig = {
     // custom umami analytics js
     // for users who deploy umami on their own, or route analytics javascript to a customized domain
     // see https://github.com/umami-software/umami/discussions/1026
-    customUmamiAnalyticsJS: 'https://js.radishzz.cc/jquery.min.js',
+    customUmamiAnalyticsJS: '',
   },
   // PRELOAD SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END
 }

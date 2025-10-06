@@ -1,11 +1,12 @@
 ---
-title: "When Breath Becomes Air"
+title: "A Neurosurgeon's Crisis"
 published: 2025-08-15
 tags: ["Non-fiction","Memoir","Autobiography"]
 ---
 
-# A Neurosurgeon's Crisis
->"...I FLIPPED THROUGH THE CT scan images, the diagnosis obvious: the lungs were matted with innumerable tumors, the spine deformed, a   full lobe of the liver obliterated. Cancer, widely disseminated. I was a neurosurgical resident entering my final year of training Over the last six years, Iâ€™d examined scores of such scans, on the off chance that some procedure might `benefit the patient. But this scan was different: it was my own..."
+![](./_images/sara-bakhshi-_-DIX0c_Q1Y-unsplash.jpg)
+
+>...I FLIPPED THROUGH THE CT scan images, the diagnosis obvious: the lungs were matted with innumerable tumors, the spine deformed, a   full lobe of the liver obliterated. Cancer, widely disseminated. I was a neurosurgical resident entering my final year of training Over the last six years, I'd examined scores of such scans, on the off chance that some procedure might `benefit the patient. But this scan was different: it was my own...
 
 This is the story of the late Dr. Paul Kalanithi, a final-year neurosurgery resident doctor from Stanford University who had been diagnosed with terminal metastatic lung cancer. Aside from being a neurosurgeon, he had a critical interest in literature and philosophy. Dr. Paul's transition from doctor to patient forced him to confront his mortality and question the meaning of life in the certainty of death.
 
@@ -13,7 +14,7 @@ After his diagnosis of cancer, his hopes and dreams shattered. He was desperatel
 
 The remaining months he hadâ€”what did it mean for him? A neurosurgeon, a father, a teacher? Despite his illness, he returned to his neurosurgery rounds and also kept his love for literature and wrote this book. Paul and Lucy (his wife) had a child together. After his diagnosis, he wished for children; maybe that would hold some meaning to his life, to add another chair to the family's table. In the book he also expresses his grief about how his terminal illness may have at least brought him and Lucy close and saved his marriage. Paul believed that an easy death was not necessarily the best outcome, and he felt that life was not simply about avoiding suffering.
 
-<u>"...You canâ€™t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving...â€</u>
+>...You can't ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving...
 
 Paul began writing the book after his diagnosis and continued until he could no longer gather the strength to write. His love for literature shaped his perspective on life and death, allowing him to convey profound insights through his words. As he penned `his thoughts, he hoped to leave behind a legacy that would resonate with others facing similar struggles
 
