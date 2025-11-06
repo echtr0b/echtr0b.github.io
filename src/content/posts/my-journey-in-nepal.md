@@ -1,6 +1,6 @@
 ---
 title: 'My Journey in Nepal'
-description: 'Here I talk about my journey in Nepal and how I did nice things.'
+description: 'Here I talk about my journey in Nepal and how I did nice things.(PERSONAL)'
 published: 2024-07-28
 tags: ["Personal"]
 toc : false 
