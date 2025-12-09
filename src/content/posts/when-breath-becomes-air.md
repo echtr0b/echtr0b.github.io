@@ -2,6 +2,7 @@
 title: "A Neurosurgeon's Crisis"
 published: 2025-08-15
 tags: ["Non-fiction","Memoir","Autobiography"]
+toc: false 
 ---
 
 ![](./_images/sara-bakhshi-_-DIX0c_Q1Y-unsplash.jpg)
