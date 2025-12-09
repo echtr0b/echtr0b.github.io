@@ -2,7 +2,7 @@
 title: "The Walk"
 published: 2025-12-10
 tags: ["Personal Reflections"]
-description : [There is little to no difference between having a worse hangover and trying to wake up in the morning for a person who is not programmed to wake up early every day. I was wrapped up like a fat burrito...]
+description : There is little to no difference between having a worse hangover and trying to wake up in the morning for a person who is not programmed to wake up early every day. I was wrapped up like a fat burrito..
 toc: false
 ---
 ![𝘯𝘢𝘷𝘢𝘵𝘢𝘯𝘥𝘩𝘢𝘮 𝘵𝘦𝘮𝘱𝘭𝘦 𝘢𝘵 𝘯𝘪𝘨𝘩𝘵](./_images/krishna-mandir.jpg)
